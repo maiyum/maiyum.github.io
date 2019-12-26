@@ -1,10 +1,10 @@
 # Site settings
-title: Maiyum Blog
+title: Maiyum
 SEOTitle: Mai物语
 header-img: img/asuka.jpg
 email: wfaqrgy@outlook.com
 description: "怦然心动"
-keyword: "maiyum, monogatari, maiyum的博客"
+keyword: "maiyum, maiyum的博客"
 url: "http://miayum.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/maiyum/maiyum.github.io" # you code repository
