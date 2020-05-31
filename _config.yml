@@ -11,7 +11,7 @@ github_repo: "https://github.com/maiyum/maiyum.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "You can (not) advance."
+sidebar-about-description: "YOU CAN (NOT) ADVANCE."
 sidebar-avatar:  /img/mio.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
